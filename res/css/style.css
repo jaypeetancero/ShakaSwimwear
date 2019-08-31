@@ -7,10 +7,22 @@
 .theme-color-1{
     color: #F20530;
 }
+.header-logo{
+    height: 7vh;
+    padding-right: 10px;
+    border-radius: 100%;
+}
 .carousel-crop{
     object-fit: none;
     object-position: center;
     max-height: 86vh;
+}
+.whatsNew-crop{
+    object-fit: contain;
+    height: 80h;
+    width: 80vw;
+    max-height: 300px;
+    max-width: 300px;
 }
 .font-grotesque{
     font-family: 'Darker Grotesque', sans-serif;
@@ -31,4 +43,11 @@
 }
 .custom-button-1:active, .custom-button-1:focus{
     outline: 0;
+}
+.dim{
+    filter: brightness(80%);
+}
+.mx--0{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "977a72857f35e66a442f5345d6bff7a3",
+    "revision": "0e43e7439b04a8b32a2018392d595ca3",
     "url": "/ShakaSwimwear/index.html"
   },
   {
-    "revision": "08f366b9858ebf28be6c",
+    "revision": "88dc0204d3807e530f01",
     "url": "/ShakaSwimwear/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "c08659635c1745a2ec60",
-    "url": "/ShakaSwimwear/static/js/2.23904c75.chunk.js"
+    "revision": "62df787faf21e1db3739",
+    "url": "/ShakaSwimwear/static/js/2.115bfb8c.chunk.js"
   },
   {
-    "revision": "08f366b9858ebf28be6c",
-    "url": "/ShakaSwimwear/static/js/main.9c4ee2c3.chunk.js"
+    "revision": "88dc0204d3807e530f01",
+    "url": "/ShakaSwimwear/static/js/main.c25f43ca.chunk.js"
   },
   {
     "revision": "22c351341d55c115951d",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ShakaSwimwear/static/css/main.34de6062.chunk.css",
-    "main.js": "/ShakaSwimwear/static/js/main.9c4ee2c3.chunk.js",
-    "main.js.map": "/ShakaSwimwear/static/js/main.9c4ee2c3.chunk.js.map",
+    "main.js": "/ShakaSwimwear/static/js/main.c25f43ca.chunk.js",
+    "main.js.map": "/ShakaSwimwear/static/js/main.c25f43ca.chunk.js.map",
     "runtime~main.js": "/ShakaSwimwear/static/js/runtime~main.c097168a.js",
     "runtime~main.js.map": "/ShakaSwimwear/static/js/runtime~main.c097168a.js.map",
-    "static/js/2.23904c75.chunk.js": "/ShakaSwimwear/static/js/2.23904c75.chunk.js",
-    "static/js/2.23904c75.chunk.js.map": "/ShakaSwimwear/static/js/2.23904c75.chunk.js.map",
+    "static/js/2.115bfb8c.chunk.js": "/ShakaSwimwear/static/js/2.115bfb8c.chunk.js",
+    "static/js/2.115bfb8c.chunk.js.map": "/ShakaSwimwear/static/js/2.115bfb8c.chunk.js.map",
     "index.html": "/ShakaSwimwear/index.html",
-    "precache-manifest.2681f2a663b2eacb9fc7fa3287eab536.js": "/ShakaSwimwear/precache-manifest.2681f2a663b2eacb9fc7fa3287eab536.js",
+    "precache-manifest.940f967a86fe2a331c40493882a50c36.js": "/ShakaSwimwear/precache-manifest.940f967a86fe2a331c40493882a50c36.js",
     "service-worker.js": "/ShakaSwimwear/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/ShakaSwimwear/static/css/main.34de6062.chunk.css.map"
   }

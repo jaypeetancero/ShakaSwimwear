@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ShakaSwimwear/precache-manifest.940f967a86fe2a331c40493882a50c36.js"
+  "/ShakaSwimwear/precache-manifest.f354af3eb9de42169c3790bb43d09954.js"
 );
 
 self.addEventListener('message', (event) => {

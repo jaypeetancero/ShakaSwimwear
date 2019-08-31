@@ -19,6 +19,7 @@ export class Homepage extends Component {
                     <div className={carouselImages[0].url === image.url ? "carousel-item active carousel-crop" : "carousel-item carousel-crop"}>
                         <img src={image.url} className="w-100 text-center" alt="carousel_image" />
                         <button type="button" className="custom-button-1 carousel-caption w-25 mx-auto position-absolute margin-bottom-25">Shop Now</button>
+                        <i class="fa fa-chevron-down"></i>
                     </div>
                 )
             })
@@ -40,6 +41,9 @@ export class Homepage extends Component {
                         <span className="carousel-control-next-icon" aria-hidden="true"></span>
                         <span className="sr-only">Next</span>
                     </a>
+                </div>
+                <div data-spy="scroll" data-target="#carousel1" data-offset="0">
+                        <h1 id="whats-new">What's new</h1>
                 </div>
             </div>
         )

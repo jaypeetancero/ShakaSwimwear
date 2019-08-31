@@ -1,0 +1,17 @@
+.bg-primary-1{
+    background-color: #C7CFD9;
+}
+.bg-primary-2{
+    background-color: #C7CFD9;
+}
+.theme-color-1{
+    color: #F20530;
+}
+.carousel-crop{
+    object-fit: none;
+    object-position: center;
+    max-height: 86vh;
+}
+.font-grotesque{
+    font-family: 'Darker Grotesque', sans-serif;
+}

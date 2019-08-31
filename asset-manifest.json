@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShakaSwimwear/static/css/main.34de6062.chunk.css",
+    "main.js": "/ShakaSwimwear/static/js/main.489ba79e.chunk.js",
+    "main.js.map": "/ShakaSwimwear/static/js/main.489ba79e.chunk.js.map",
+    "runtime~main.js": "/ShakaSwimwear/static/js/runtime~main.c097168a.js",
+    "runtime~main.js.map": "/ShakaSwimwear/static/js/runtime~main.c097168a.js.map",
+    "static/js/2.23904c75.chunk.js": "/ShakaSwimwear/static/js/2.23904c75.chunk.js",
+    "static/js/2.23904c75.chunk.js.map": "/ShakaSwimwear/static/js/2.23904c75.chunk.js.map",
+    "index.html": "/ShakaSwimwear/index.html",
+    "precache-manifest.19ed21929321e6eda7540fa52807715e.js": "/ShakaSwimwear/precache-manifest.19ed21929321e6eda7540fa52807715e.js",
+    "service-worker.js": "/ShakaSwimwear/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/ShakaSwimwear/static/css/main.34de6062.chunk.css.map"
+  }
+}

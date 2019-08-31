@@ -4,7 +4,7 @@ import Header from './components/layout/Header';
 import Homepage from './components/homepage/Homepage'
 
 const defaultRoutes = [{
-  path: '/',
+  path: '/ShakaSwimwear',
   component: Homepage
 }]
 

@@ -18,7 +18,7 @@ export class Homepage extends Component {
                 return (
                     <div className={carouselImages[0].url === image.url ? "carousel-item active carousel-crop" : "carousel-item carousel-crop"}>
                         <img src={image.url} className="w-100 text-center" alt="carousel_image" />
-                        <button type="button" className="btn btn-success">Shop Now</button>
+                        <button type="button" className="custom-button-1 carousel-caption w-25 mx-auto position-absolute margin-bottom-25">Shop Now</button>
                     </div>
                 )
             })

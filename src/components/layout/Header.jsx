@@ -14,7 +14,7 @@ export class Header extends Component {
                     </div>
                 </div>
                 <div className="container">
-                    <nav className="navbar navbar-expand-lg navbar-expand-xl navbar-light">
+                    <nav className="navbar navbar-expand-md navbar-expand-lg navbar-expand-xl navbar-light">
                         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
                             <span className="navbar-toggler-icon"></span>
                         </button>

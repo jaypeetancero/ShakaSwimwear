@@ -7,6 +7,7 @@ export class Header extends Component {
                 <div className="bg-primary-1">
                     <div className="container-fluid">
                         <div className="py-2">
+                            <img src="https://instagram.fmnl4-2.fna.fbcdn.net/vp/5e75a07cb8a1426b30294480cad24005/5DF66611/t51.2885-19/s150x150/38458106_1783732921747920_1659467988992000000_n.jpg?_nc_ht=instagram.fmnl4-2.fna.fbcdn.net" className="header-logo"/>
                             <span className="h1 font-grotesque">ShakaSwim</span>
                             <span className="h3 float-right px-1 font-grotesque">Login</span>
                             <span className="h3 float-right px-1 font-grotesque">Register</span>

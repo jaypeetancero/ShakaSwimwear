@@ -44,7 +44,7 @@ export class Homepage extends Component {
                         <div className="text-center m-1">
                             <img src={image.url} className="whatsNew-crop" alt="whatsNew_image" />
                             <button type="button" className="custom-button-1 carousel-caption w-25 mx-auto position-absolute margin-bottom-25">Check this</button>
-                            <h4 className="font-grotesque">Insert name of profuct here</h4>
+                            <h4>Insert name of profuct here</h4>
                         </div>
                     </div>
                 )
@@ -54,7 +54,7 @@ export class Homepage extends Component {
 
     render() {
         return (
-            <div>
+            <div className="font-grotesque">
                 <div id="carousel1" className="carousel slide" data-ride="carousel">
                     <div className="carousel-inner">
                         {this.renderCarouselImages()}
@@ -69,7 +69,7 @@ export class Homepage extends Component {
                     </a>
                 </div>
                 <div data-spy="scroll" data-target="#carousel1" data-offset="0" className="mt-5">
-                    <h1 id="whats-new" className="text-center font-grotesque">What's new</h1>
+                    <h1 id="whats-new" className="text-center">What's new</h1>
                     <div className="row d-flex justify-content-center mx--0">
                         {this.renderWhatsNewImages()}
                     </div>
